@@ -98,7 +98,7 @@ export const Approach: React.FC = () => {
                     fontFamily: 'var(--font-mono)',
                   }}
                 >
-                  // {item.subtitle}
+                  {item.subtitle}
                 </span>
               </div>
 
